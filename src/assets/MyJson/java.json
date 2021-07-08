@@ -1,0 +1,8 @@
+[
+    {"courseId":101, "courseName":"core java","coursePrice":15000,"courseDescrption":"core java training for 48 days","courseImg":"assets/image/corejava.jpg"},
+    {"courseId":102, "courseName":"spring framework","coursePrice":5000,"courseDescrption":"spring framework training for 10 days","courseImg":"assets/image/spring.jpg"},
+    {"courseId":103, "courseName":"spring boot","coursePrice":6000,"courseDescrption":"spring boot training for 15 days","courseImg":"assets/image/springboot.png"},
+    {"courseId":104, "courseName":"jdbc","coursePrice":10000,"courseDescrption":"JDBC training for 05 days","courseImg":"assets/image/jdbc.jpg"},
+    {"courseId":105, "courseName":"hibernate","coursePrice":12500,"courseDescrption":"Hibernate training for 05 days","courseImg":"assets/image/hibernate.jpg"}
+
+]

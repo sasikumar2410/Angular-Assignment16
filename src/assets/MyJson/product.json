@@ -1,0 +1,5 @@
+[
+    {"productId":101, "productName":"Bat","productPrice":5733,"productDes":"SS Bat","productImg":"assets/image/bat.jpg"},
+    {"productId":102, "productName":"FootBall","productPrice":3030,"productDes":"Vicky Football ","productImg":"assets/image/vicky.jpg"},
+    {"productId":103, "productName":"cricket ball","productPrice":4444,"productDes":"Guru Ball" ,"productImg":"assets/image/vicky.jpg"}
+  ]
